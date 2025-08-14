@@ -1,0 +1,11 @@
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon
+Мальчик спит.,Мальчик спит подушку.,Мальчик,Мальчик,подушку,Intransitive verb misuse with direct object
+Она работает.,Она работает проект.,Она,Она,проект,Intransitive verb misuse with direct object
+Девочка растёт.,Девочка растёт дерево.,Девочка,Девочка,дерево,Intransitive verb misuse with direct object
+Он смеётся.,Он смеётся шутку.,Он,Он,шутку,Intransitive verb misuse with direct object
+Мама отдыхает.,Мама отдыхает день.,Мама,Мама,день,Intransitive verb misuse with direct object
+Они играют.,Они играют музыку.,Они,Они,музыку,Intransitive verb misuse with direct object
+Ребёнок плачет.,Ребёнок плачет песню.,Ребёнок,Ребёнок,песню,Intransitive verb misuse with direct object
+Собака бежит.,Собака бежит дорогу.,Собака,Собака,дорогу,Intransitive verb misuse with direct object
+Птица летит.,Птица летит небо.,Птица,Птица,небо,Intransitive verb misuse with direct object
+Бабушка умирает.,Бабушка умирает болезнь.,Бабушка,Бабушка,болезнь,Intransitive verb misuse with direct object
