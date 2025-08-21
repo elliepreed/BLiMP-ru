@@ -1,4 +1,4 @@
-goodsentence,badsentence,goodcue,badcue,criticalregion,phenomenon
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon
 Мальчик спит.,Мальчик спит подушку.,Мальчик,Мальчик,подушку,intransitive_verb_misuse__
 Она работает.,Она работает проект.,Она,Она,проект,intransitive_verb_misuse__ 
 Девочка растёт.,Девочка растёт дерево.,Девочка,Девочка,дерево,intransitive_verb_misuse_    
